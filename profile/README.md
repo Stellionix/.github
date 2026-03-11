@@ -1,7 +1,8 @@
 # Stellionix
 
-## Minecraft Projects
+Stellionix has been building plugins for over 10 years, with several million downloads across the community.
 
+## Minecraft Projects
 
 ### DeadChest
 Advanced death chest plugin for Minecraft servers.
