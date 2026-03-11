@@ -1,20 +1,39 @@
 # Stellionix
 
-## Projects
+## Minecraft Projects
+
 
 ### DeadChest
 Advanced death chest plugin for Minecraft servers.
 
-- Protect players' items after death
-- Highly configurable
-- Used by thousands of servers worldwide
-
-👉 https://github.com/Stellionix/DeadChest
+https://github.com/Stellionix/DeadChest
 
 
-## 👨‍💻 Maintainer
+### SpawnerSilk 
+Mine spawners with silk touch / Spawner management
 
-Stellionix is currently maintained by  
-**Arthur Pavarino** 
+https://github.com/Stellionix/SpawnerSilk
+
+### MobsManager 
+Manage entities on your server
+
+https://github.com/Stellionix/MobsManager
+### CreatureCapture
+Catch them all !
+
+https://github.com/Stellionix/CreatureCapture
+### MendingEnchant
+Make possible to have mending with enchant table
+
+https://github.com/Stellionix/MendingEnchant
+
+### Cubeball 
+Play football in Minecraft with a block !
+
+https://github.com/Stellionix/Cubeball
 
 
+### RedstoneMe 
+Build proximity-based redstone triggers without buttons, levers, or pressure plates.
+
+https://github.com/Stellionix/RedStoneMe
