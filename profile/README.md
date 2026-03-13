@@ -15,7 +15,7 @@
     <h3>DeadChest</h3>
     <p>Advanced death chest plugin for Minecraft servers.</p>
     <p>
-      <a href="https://github.com/apavarino/deadchest/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/apavarino/deadchest/actions/workflows/ci.yml/badge.svg" /></a>
+      <a href="https://github.com/stellionix/deadchest/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/stellionix/deadchest/actions/workflows/ci.yml/badge.svg" /></a>
       <img alt="CurseForge downloads" src="https://cf.way2muchnoise.eu/full_322882_downloads.svg" />
       <a href="https://modrinth.com/plugin/dead-chest"><img alt="Modrinth downloads" src="https://img.shields.io/modrinth/dt/dead-chest?logo=modrinth&label=Modrinth%20downloads" /></a>
     </p>
@@ -87,7 +87,7 @@
     <h3>MendingEnchant</h3>
     <p>Make Mending available through the enchantment table.</p>
     <p>
-      <a href="https://github.com/apavarino/mendingenchant/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/apavarino/mendingenchant/actions/workflows/ci.yml/badge.svg" /></a>
+      <a href="https://github.com/stellionix/mendingenchant/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/stellionix/mendingenchant/actions/workflows/ci.yml/badge.svg" /></a>
       <img alt="CurseForge downloads" src="https://cf.way2muchnoise.eu/full_322356_downloads.svg" />
     </p>
     <p>
@@ -133,7 +133,7 @@
     <h3>RedstoneMe</h3>
     <p>Build proximity-based redstone triggers without buttons, levers, or pressure plates.</p>
     <p>
-      <a href="https://github.com/apavarino/redstoneme/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/apavarino/redstoneme/actions/workflows/ci.yml/badge.svg" /></a>
+      <a href="https://github.com/stellionix/redstoneme/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/stellionix/redstoneme/actions/workflows/ci.yml/badge.svg" /></a>
       <img alt="CurseForge downloads" src="https://cf.way2muchnoise.eu/full_322434_downloads.svg" />
     </p>
     <p>
@@ -156,7 +156,7 @@
     <h3>Cubeball</h3>
     <p>Play football in Minecraft with a block-based ball system.</p>
     <p>
-      <a href="https://github.com/apavarino/Cubeball/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/apavarino/Cubeball/actions/workflows/ci.yml/badge.svg" /></a>
+      <a href="https://github.com/stellionix/Cubeball/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/stellionix/Cubeball/actions/workflows/ci.yml/badge.svg" /></a>
       <img alt="CurseForge downloads" src="https://cf.way2muchnoise.eu/full_470085_downloads.svg" />
     </p>
     <p>
