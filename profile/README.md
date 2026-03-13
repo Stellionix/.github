@@ -1,10 +1,10 @@
 # Stellionix
 
-  Stellionix has been building Minecraft plugins for more than 10 years, with several million downloads across the community.
+Stellionix has been building Minecraft plugins for more than 10 years, trusted by server owners and downloaded several million times across the community.
 
-  Clean, focused, and maintainable plugins for Bukkit, Spigot, Paper, and compatible server platforms.
+The goal is to provide reliable, well-maintained plugins for Bukkit, Spigot, Paper, and compatible server platforms.
 
-  ## Minecraft Projects
+## Minecraft Projects
 
 <table width="100%">
     <tr>
