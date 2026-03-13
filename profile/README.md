@@ -6,7 +6,7 @@
 
   ## Minecraft Projects
 
-  <table width="100%">
+<table width="100%">
     <tr>
       <td width="150" valign="top">
         <img width="128" height="128" alt="DeadChest logo" src="https://github.com/user-attachments/assets/791d4903-df41-4481-9667-19af1e4a6dc0" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 10px; background: #f6f8fa;" />
@@ -16,6 +16,8 @@
         <p>Advanced death chest plugin for Minecraft servers.</p>
         <p>
           <a href="https://github.com/Stellionix/DeadChest"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16" alt="GitHub" /> GitHub</a>
+          &nbsp;•&nbsp;
+          <a href="https://modrinth.com/plugin/dead-chest"><img src="https://www.google.com/s2/favicons?domain=modrinth.com&sz=16" width="16" height="16" alt="Modrinth" /> Modrinth</a>
           &nbsp;•&nbsp;
           <a href="https://dev.bukkit.org/projects/dead-chest"><img src="https://www.google.com/s2/favicons?domain=dev.bukkit.org&sz=16" width="16" height="16" alt="Bukkit" /> Bukkit</a>
           &nbsp;•&nbsp;
