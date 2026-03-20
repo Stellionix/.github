@@ -43,9 +43,12 @@
     <p>
       <a href="https://github.com/Stellionix/SpawnerSilk/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/Stellionix/SpawnerSilk/actions/workflows/ci.yml/badge.svg" /></a>
       <img alt="CurseForge downloads" src="https://cf.way2muchnoise.eu/full_322295_downloads.svg" />
+      <a href="https://modrinth.com/plugin/spawnersilk"><img alt="Modrinth downloads" src="https://img.shields.io/modrinth/dt/spawnersilk?logo=modrinth&label=Modrinth%20downloads" /></a>
     </p>
     <p>
       <a href="https://github.com/Stellionix/SpawnerSilk"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16" alt="GitHub" /> GitHub</a>
+      &nbsp;•&nbsp;
+      <a href="https://modrinth.com/plugin/spawnersilk"><img src="https://www.google.com/s2/favicons?domain=modrinth.com&sz=16" width="16" height="16" alt="Modrinth" /> Modrinth</a>
       &nbsp;•&nbsp;
       <a href="https://dev.bukkit.org/projects/spawnersilk"><img src="https://www.google.com/s2/favicons?domain=dev.bukkit.org&sz=16" width="16" height="16" alt="Bukkit" /> Bukkit</a>
       &nbsp;•&nbsp;
@@ -66,9 +69,12 @@
     <p>
       <a href="https://github.com/stellionix/MobsManager/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/stellionix/MobsManager/actions/workflows/ci.yml/badge.svg" /></a>
       <img alt="CurseForge downloads" src="https://cf.way2muchnoise.eu/full_322365_downloads.svg" />
+      <a href="https://modrinth.com/plugin/mobsmanager"><img alt="Modrinth downloads" src="https://img.shields.io/modrinth/dt/mobsmanager?logo=modrinth&label=Modrinth%20downloads" /></a>
     </p>
     <p>
       <a href="https://github.com/Stellionix/MobsManager"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16" alt="GitHub" /> GitHub</a>
+      &nbsp;•&nbsp;
+      <a href="https://modrinth.com/plugin/mobsmanager"><img src="https://www.google.com/s2/favicons?domain=modrinth.com&sz=16" width="16" height="16" alt="Modrinth" /> Modrinth</a>
       &nbsp;•&nbsp;
       <a href="https://dev.bukkit.org/projects/mobsmanager"><img src="https://www.google.com/s2/favicons?domain=dev.bukkit.org&sz=16" width="16" height="16" alt="Bukkit" /> Bukkit</a>
       &nbsp;•&nbsp;
